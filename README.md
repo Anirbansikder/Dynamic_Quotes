@@ -11,4 +11,4 @@ Every time you Click On the New Quotes Button A new quote generates.
 
 On clicking the twitter icon you will be redirected to the Twitter Page.
 
-<img src="./images/Screenshot-2.png>
+<img src="./images/Screenshot-2.png">
